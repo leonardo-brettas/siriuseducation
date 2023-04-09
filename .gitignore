@@ -1,0 +1,3 @@
+/venv/
+/siriuseducation/.env
+*.env
